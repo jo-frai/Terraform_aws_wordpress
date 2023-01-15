@@ -13,7 +13,7 @@
   - db_password <-- Le password pour l'utilisateur du RDS 
   - mon_ip <-- L'IP autorisé à se connecter en SSH 
 
-### Crrer une paire de clés SSH : ssh-keygen (with name key_wp.pem)
+### Créer une paire de clés SSH : ssh-keygen (with name key_wp.pem)
 
 ## Commandes pour utiliser Terraform
 ### Initialiser le projet
