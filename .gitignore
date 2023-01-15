@@ -1,0 +1,11 @@
+# .tfstate qui sont les fichiers d'etat des deploiements
+*.tfstate
+*.tfstate.*
+*.terraform.*
+
+# Tous les fichiers avec les variables sensibles
+*.tfvars
+
+# Les clefs SSH 
+*.pem
+*.pub
