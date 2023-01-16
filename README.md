@@ -20,10 +20,10 @@
 terraform init
 
 ### Planifier ce qui va etre deployé 
-terraform plan -var-file="secrets.tfvars
+terraform plan -var-file="secrets.tfvars"
 
 ### Appliquer le déploiement 
-terraform apply -var-file="secrets.tfvars
+terraform apply -var-file="secrets.tfvars"
 
 ### Detruire l'infrastructure
 terraform destroy -var-file="secrets.tfvars"
